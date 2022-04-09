@@ -1,21 +1,17 @@
-public static int RemoveElement(int[] nums, int val)
+public class Solution
 {
-    int len = nums.Length;
-    for (int i = 0; i < len;)
+    public int RemoveElement(int[] nums, int val)
     {
+        int k = 0;
+        for (int i = 0; i < nums.Length; i++)
+        {
 
-        if (nums[i] == val)
-        {
-            for (int j = i + 1; j < len; j++)
+            if (nums[i] != val)
             {
-                nums[j - 1] = nums[j];
+                nums[k++] = nums[i];
             }
-            len--;
+
         }
-        else
-        {
-            i++;
-        }
+        return k;
     }
-    return len;
 }
