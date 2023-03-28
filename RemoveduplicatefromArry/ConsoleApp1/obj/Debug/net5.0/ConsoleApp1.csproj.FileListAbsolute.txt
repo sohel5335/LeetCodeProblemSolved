@@ -1,0 +1,16 @@
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+I:\LeetCode\RemoveduplicatefromArry\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

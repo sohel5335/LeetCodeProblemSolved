@@ -1,0 +1,16 @@
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\BestTimetoBuyandSellStock.exe
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\BestTimetoBuyandSellStock.deps.json
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\BestTimetoBuyandSellStock.runtimeconfig.json
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\BestTimetoBuyandSellStock.runtimeconfig.dev.json
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\BestTimetoBuyandSellStock.dll
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\ref\BestTimetoBuyandSellStock.dll
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\bin\Debug\net5.0\BestTimetoBuyandSellStock.pdb
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.csproj.AssemblyReference.cache
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.GeneratedMSBuildEditorConfig.editorconfig
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.AssemblyInfoInputs.cache
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.AssemblyInfo.cs
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.csproj.CoreCompileInputs.cache
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.dll
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\ref\BestTimetoBuyandSellStock.dll
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.pdb
+I:\LeetCode\BestTimetoBuyandSellStock\BestTimetoBuyandSellStock\obj\Debug\net5.0\BestTimetoBuyandSellStock.genruntimeconfig.cache
