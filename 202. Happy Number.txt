@@ -1,0 +1,25 @@
+public class Solution {
+    public bool IsHappy(int n)
+    {
+        Dictionary<int,int> map=new Dictionary<int,int>();
+        while(true)
+        {
+            map.Add(n,0);
+            int tmp=n;
+            int svalue=0;
+            while(tmp>0)
+            {
+                int m=(tmp%10);
+               svalue +=( m* m);
+               tmp=tmp/10;
+            }
+            n=svalue;
+            
+            if(n==1)
+            return true;
+            else if(map.ContainsKey(n))
+            return false;
+        }
+       
+    }
+}
